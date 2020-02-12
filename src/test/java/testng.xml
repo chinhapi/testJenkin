@@ -1,0 +1,10 @@
+<suite name="testng">
+    <test name="Scommer">
+        <classes>
+            <class name="test23" />
+        </classes>
+    </test>
+</suite>
+
+
+
